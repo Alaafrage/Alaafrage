@@ -32,5 +32,6 @@
 ---
 
 ### 📫 Connect with me
-- LinkedIn
-- GitHub
+- GitHub: https://github.com/USERNAME
+- LinkedIn: https://www.linkedin.com/in/alaa-frage-a6a2ba290
+- Email: alaafrage17@gmail.com
